@@ -27,3 +27,7 @@ func myFunction(){
     1. 첫 번째
     2. 두 번쨰
     3. 세 번쨰 
+
+![러버덕](https://github.com/choironi/choironi.github.io/blob/master/images/roberdock.jpeg?raw=true)
+
+[러버덕](https://github.com/choironi/choironi.github.io/blob/master/images/roberdock.jpeg?raw=true)
